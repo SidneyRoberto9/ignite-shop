@@ -5,7 +5,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/SidneyRoberto9/ignite-shop?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/SidneyRoberto9/ignite-shop?style=for-the-badge)
 
-<a href="https://coffee-delivery-sid.netlify.app/" target="_blank">Demo</a>
+<a href="https://ignite-shop-sid.vercel.app/" target="_blank">Demo</a>
 
 <img src=".github/1440x1035.png" alt="exemplo imagem">
 <img src=".github/item.png" alt="exemplo imagem">
